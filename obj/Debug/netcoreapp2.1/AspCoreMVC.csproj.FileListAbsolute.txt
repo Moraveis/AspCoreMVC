@@ -30,3 +30,4 @@
 /Users/joao/Documents/GitHub/AspCoreMVC/obj/Debug/netcoreapp2.1/AspCoreMVC.dll
 /Users/joao/Documents/GitHub/AspCoreMVC/obj/Debug/netcoreapp2.1/AspCoreMVC.pdb
 /Users/joao/Documents/GitHub/AspCoreMVC/obj/Debug/netcoreapp2.1/AspCoreMVC.csproj.CopyComplete
+/Users/joao/Documents/GitHub/AspCoreMVC/obj/Debug/netcoreapp2.1/Razor/Views/Test/Index.g.cshtml.cs
